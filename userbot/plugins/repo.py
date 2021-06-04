@@ -28,4 +28,4 @@ async def inline_id_handler(event: events.InlineQuery.Event):
 async def callback_query_handler(event):
 
 # inline by LEGENDX22 and PROBOYX 🔥
-  await event.edit(text=f"{BOT} REPO AND GROUP LINK",buttons=[[Button.url(f"🔥{BOT} REPO🔥", url="https://github.com/Arcane120/ARCANE-USERBOT"), Button.url(f"⚡{BOT} SUPPORT⚡", url="https://t.me/Arcane_Bot_Support")]])
+  await event.edit(text=f"{BOT} REPO AND GROUP LINK",buttons=[[Button.url(f"🔥{BOT} REPO🔥", url="https://github.com/OP120/ARCANE-USERBOT"), Button.url(f"⚡{BOT} SUPPORT⚡", url="https://t.me/OP_Bot_Support")]])

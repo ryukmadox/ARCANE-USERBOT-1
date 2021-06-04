@@ -1,1 +1,1 @@
-from Arcane import NAME, MASTER, BOT
+from OP import NAME, MASTER, BOT

@@ -535,7 +535,7 @@ async def inline_handler(lightning):
 
                 [custom.Button.inline("Help", data="what?")],
 
-                [Button.url("Commands Not Working 😢", "https://t.me/Arcane_Bot_Support")],
+                [Button.url("Commands Not Working 😢", "https://t.me/OP_Bot_Support")],
 
                 [Button.url("Help Article 😢", "https://app.gitbook.com/@poxsisofficial/s/help/")],
 
@@ -547,7 +547,7 @@ async def inline_handler(lightning):
 
                     "Want To Learn CMDS✨🤖",
 
-                    "https://t.me/Arcane_Bot_Support" ,
+                    "https://t.me/OP_Bot_Support" ,
 
                     )
 
@@ -689,7 +689,7 @@ async def lightning_pugins_query_hndlr(lightning):
 
            lightning_is_best = lightning_help_strin 
 
-           lightning_is_best += "\n\n**In Case Any Problem @Arcane_Bot_Support** ".format(light_pulu_name)
+           lightning_is_best += "\n\n**In Case Any Problem @OP_Bot_Support** ".format(light_pulu_name)
 
         
 
@@ -721,7 +721,7 @@ async def lightning_pugins_query_hndlr(lightning):
 
                 for i in CMD_LIST[light_pulu_name]:
 
-                    lightning_help_strin  = f"**✨✨ NAME ✨✨ :** `{light_pulu_name}` \n\n `{CMD_LIST[light_pulu_name]}\n`**Details**- Not Yetðð\n\n**Ask at @Arcane_Bot_Support"
+                    lightning_help_strin  = f"**✨✨ NAME ✨✨ :** `{light_pulu_name}` \n\n `{CMD_LIST[light_pulu_name]}\n`**Details**- Not Yetðð\n\n**Ask at @OP_Bot_Support"
 
                     lightning_help_strin += "\n    " + i
 
@@ -731,17 +731,17 @@ async def lightning_pugins_query_hndlr(lightning):
 
     else:
 
-           lightning_help_strin  = f"**✨✨ NAME ✨✨ :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n**Details** - Not Yetðð\n\n**Ask at @Arcane_Bot_Support"
+           lightning_help_strin  = f"**✨✨ NAME ✨✨ :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n**Details** - Not Yetðð\n\n**Ask at @OP_Bot_Support"
 
            lightning_is_best = lightning_help_strin 
 
-           lightning_is_best += "\n\n**In Case Any Problem @Arcane_Bot_Support** ".format(light_pulu_name)
+           lightning_is_best += "\n\n**In Case Any Problem @OP_Bot_Support** ".format(light_pulu_name)
 
-    lightning_help_strin = f"**✨✨ NAME ✨✨ :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n**Details** - Not Set for this Plugin 😑\n\n**Ask at @Arcane_Bot_Support"
+    lightning_help_strin = f"**✨✨ NAME ✨✨ :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n**Details** - Not Set for this Plugin 😑\n\n**Ask at @OP_Bot_Support"
 
     lightning_is_best = lightning_help_strin 
 
-    lightning_is_best += "\n\n**In Case Any Problem @Arcane_Bot_Support** ".format(light_pulu_name)    
+    lightning_is_best += "\n\n**In Case Any Problem @OP_Bot_Support** ".format(light_pulu_name)    
 
     if len(lightning_is_best) >= 4096:
 
@@ -1241,7 +1241,7 @@ async def ho(event):
 
     ho = f"""ARCANE_BOT Is Here With Stunning Help !\n
 
-In Case Any Problem @Arcane_Bot_Support \nTottal Plugs(⚓): {len(CMD_LIST)}"""
+In Case Any Problem @OP_Bot_Support \nTottal Plugs(⚓): {len(CMD_LIST)}"""
 
     await event.edit(message=ho, buttons=buttons)
 

@@ -9,12 +9,12 @@ This is a USERBOT made for telegram. We made this userbot  with help of  other U
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ:-
 
-## [String Session](https://replit.com/@Arcane120/ArcaneBot#main.py)
+## [String Session](https://replit.com/@OP120/OPBot#main.py)
 
 -------------------------------------------------
 
 ## Sᴛᴀᴛᴜs Oғ Tʜɪs Bᴏᴛ
-<p align="left"><a href="https://github.com/Arcane120/ARCANE-USERBOT/Network/members"><img src="https://img.shields.io/github/forks/majid-nex/nextron-bot?label=Forks&logoColor=pink&style=social"></a><p align="left"><a href="https://github.com/Arcane120/ARCANE-USERBOT/stargazers"><img src="https://img.shields.io/badge/Arcane-Arcane--USERBOT-red"></a><p align="left"><a href="https://github.com/Arcane120/ARCANE-USERBOT"><img src="https://img.shields.io/badge/Arcane-Arcane--USERBOT-red"></a>
+<p align="left"><a href="https://github.com/OP120/ARCANE-USERBOT/Network/members"><img src="https://img.shields.io/github/forks/majid-nex/nextron-bot?label=Forks&logoColor=pink&style=social"></a><p align="left"><a href="https://github.com/OP120/ARCANE-USERBOT/stargazers"><img src="https://img.shields.io/badge/OP-OP--USERBOT-red"></a><p align="left"><a href="https://github.com/OP120/ARCANE-USERBOT"><img src="https://img.shields.io/badge/OP-OP--USERBOT-red"></a>
 
 ## The owner would not be responsible for any kind of bans due to the bot...
 ## Fᴏʀᴋ Aᴛ Yᴏᴜʀ Oᴡɴ Rɪsᴋ
@@ -22,12 +22,12 @@ This is a USERBOT made for telegram. We made this userbot  with help of  other U
 
 ![ARCANE](https://telegra.ph/file/91d386b1f7db6c76abf80.jpg)
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FArcane120%2Heroku-Setup&template=https%3A%2F%2Fgithub.com%2FArcane120%2FHeroku-Setup)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOP120%2Heroku-Setup&template=https%3A%2F%2Fgithub.com%2FOP120%2FHeroku-Setup)
  
  
  ## Official✨ Support⚓
-<a href="https://t.me/Arcane_Bot_Updates"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/Arcane_Bot_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/OP_Bot_Updates"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/OP_Bot_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
  # Credits🤖

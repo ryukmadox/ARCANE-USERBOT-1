@@ -22,7 +22,7 @@ async def awake(event):
   LEGENDX += "**Fᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ ʙᴏᴛ...**\n\n"
   LEGENDX += "**Tᴇʟᴇᴛʜᴏɴ** : `1.20`\n\n"
   LEGENDX += "~~ **Tʜᴀɴᴋs ғᴏʀ ᴄʜᴇᴄᴋɪɴɢ ᴍᴇ** !!"
-  BUTTON = [[Button.url("Mᴀsᴛᴇʀ", f"https://t.me/{bot.me.username}"), Button.url(f"{BOT} Rᴇᴘᴏ", "https://github.com/Arcane120/ARCAME-USERBOT")]]
+  BUTTON = [[Button.url("Mᴀsᴛᴇʀ", f"https://t.me/{bot.me.username}"), Button.url(f"{BOT} Rᴇᴘᴏ", "https://github.com/OP120/ARCAME-USERBOT")]]
   BUTTON += [[custom.Button.inline("Rᴇᴘᴏsɪᴛᴏʀɪᴇs »»", data="LEGENDX")]]
   await xbot.send_file(event.chat_id, PHOTO, caption=LEGENDX,  buttons=BUTTON)
 
@@ -32,11 +32,11 @@ async def awake(event):
 @xbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"LEGENDX")))
 async def callback_query_handler(event):
 # inline by LEGENDX22 and PROBOY22 🔥
-  PROBOYX = [[Button.url("Rᴇᴘᴏ UʟᴛʀᴀX", "https://github.com/Arcane120/ARCANE-USERBOT")]]
-  PROBOYX +=[[Button.url("Dᴇᴘʟᴏʏ UʟᴛʀᴀX", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FArcane120%2FHeroku-Setup&template=https%3A%2F%2Fgithub.com%2Arcane120%2Heroku-Setup")]]
+  PROBOYX = [[Button.url("Rᴇᴘᴏ UʟᴛʀᴀX", "https://github.com/OP120/ARCANE-USERBOT")]]
+  PROBOYX +=[[Button.url("Dᴇᴘʟᴏʏ UʟᴛʀᴀX", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOP120%2FHeroku-Setup&template=https%3A%2F%2Fgithub.com%2OP120%2Heroku-Setup")]]
   PROBOYX +=[[Button.url("Tᴜᴛᴏʀɪᴀʟ", "https://youtu.be/rGCSSFPsS4Q"), Button.url("Sᴛʀɪɴɢ Sᴇssɪᴏɴ", "https://replit.com/@legendx22/ULTRA-X#main.py")]]
   PROBOYX +=[[Button.url("Aᴘɪ Iᴅ & Aᴘɪ Hᴀsʜ", "https://t.me/usetgxbot"), Button.url("Rᴇᴅɪs", "https://redislabs.com")]]
-  PROBOYX +=[[Button.url("Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ", "https://t.me/UltraXOT"), Button.url("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", "https://t.me/Arcane_Bot_Support")]]
+  PROBOYX +=[[Button.url("Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ", "https://t.me/UltraXOT"), Button.url("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", "https://t.me/OP_Bot_Support")]]
   PROBOYX +=[[custom.Button.inline("«« Aʟɪᴠᴇ", data="PROBOY")]]
   await event.edit(text=f"Aʟʟ Dᴇᴛᴀɪʟs Oғ Rᴇᴘᴏs", buttons=PROBOYX)
 
@@ -51,14 +51,14 @@ async def callback_query_handler(event):
   LEGENDX += "**Fᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ ʙᴏᴛ...**\n\n"
   LEGENDX += "**Tᴇʟᴇᴛʜᴏɴ** : `1.20`\n\n"
   LEGENDX += "~~ **Tʜᴀɴᴋs ғᴏʀ ᴄʜᴇᴄᴋɪɴɢ ᴍᴇ** !!"
-  BUTTONS = [[Button.url("Mᴀsᴛᴇʀ", f"https://t.me/{bot.me.username}"), Button.url(f"{BOT} Rᴇᴘᴏ", "https://github.com/Arcane120/ARCANE-USERBOT")]]
+  BUTTONS = [[Button.url("Mᴀsᴛᴇʀ", f"https://t.me/{bot.me.username}"), Button.url(f"{BOT} Rᴇᴘᴏ", "https://github.com/OP120/ARCANE-USERBOT")]]
   BUTTONS += [[custom.Button.inline("Rᴇᴘᴏsɪᴛᴏʀɪᴇs »»", data="LEGENDX")]]
   await event.edit(text=LEGENDX, buttons=BUTTONS)
 
 
 @xbot.on(events.NewMessage(pattern=("/repo")))
 async def repo(event):
-  await xbot.send_message(event.chat, "**Hᴇʀᴇ Is Tʜᴇ Rᴇᴘᴏ Fᴏʀ ARCANE Usᴇʀʙᴏᴛ** \n\nFᴏʀ Aɴʏ Hᴇʟᴘ :- @Arcane_Bot_Support", buttons=[[Button.url("⚜️ Rᴇᴘᴏ ⚜️", "https://github.com/Arcane120/ARCANE-USERBOT"), Button.url("🔰 Dᴇᴘʟᴏʏ 🔰", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FArcane120%2FHeroku-Setup&template=https%3A%2F%2Fgithub.com%2FArcane120%2FHeroku-Setup")]])
+  await xbot.send_message(event.chat, "**Hᴇʀᴇ Is Tʜᴇ Rᴇᴘᴏ Fᴏʀ ARCANE Usᴇʀʙᴏᴛ** \n\nFᴏʀ Aɴʏ Hᴇʟᴘ :- @OP_Bot_Support", buttons=[[Button.url("⚜️ Rᴇᴘᴏ ⚜️", "https://github.com/OP120/ARCANE-USERBOT"), Button.url("🔰 Dᴇᴘʟᴏʏ 🔰", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOP120%2FHeroku-Setup&template=https%3A%2F%2Fgithub.com%2FOP120%2FHeroku-Setup")]])
 
 
 def get_readable_time(seconds: int) -> str:

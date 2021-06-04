@@ -46,7 +46,7 @@ from userbot.uniborgConfig import Config
 
 from var import Var
 
-LIGHTNINGUSER = str(ALIVE_NAME) if ALIVE_NAME else "Arcane"
+LIGHTNINGUSER = str(ALIVE_NAME) if ALIVE_NAME else "OP"
 
 from userbot.utils import admin_cmd as lightning_cmd
 
@@ -520,7 +520,7 @@ async def krish_op(event):
 
             await borg.send_message(
 
-                chats, "**Heya @Arcane_Devs YOU ARE MY CREATOR I APPROVED YOU SIR ❤️🥰🔥⚜️**"
+                chats, "**Heya @OP_Devs YOU ARE MY CREATOR I APPROVED YOU SIR ❤️🥰🔥⚜️**"
 
             )
 
@@ -550,7 +550,7 @@ async def krish_op(event):
 
             await borg.send_message(
 
-                chats, f"**Good To See You @Arcane_Devs How Can I Disapprove You Come In Sir**ðð"
+                chats, f"**Good To See You @OP_Devs How Can I Disapprove You Come In Sir**ðð"
 
             )
 

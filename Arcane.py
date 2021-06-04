@@ -29,12 +29,12 @@ pbot = Client("ARCANE", api_id=API_ID, api_hash=API_HASH, bot_token=token)
 BOT = str(botnickname) if botnickname else "ARCANE BOT"
 NAME = str(ALIVE_NAME) if ALIVE_NAME else "ARCANE BOT"
 PHOTO = os.environ.get("ALIVE_PHOTTO", None)
-ARCANE = "[ARCANE](https://t.me/Arcane_Bot_Support)"
+ARCANE = "[ARCANE](https://t.me/OP_Bot_Support)"
 VERSION = "3.1.5"
-REPO = "[ARCANE BOT](https://github.com/Arcane120/ARCANE-USERBOT)"
+REPO = "[ARCANE BOT](https://github.com/OP120/ARCANE-USERBOT)"
 PRO = bot.uid
 MASTER = f"[{NAME}](tg://user?id={PRO})"
-GROUP = "[SUPPORT GROUP](https://t.me/Arcane_Bot_Support)"
+GROUP = "[SUPPORT GROUP](https://t.me/OP_Bot_Support)"
 if __name__=="__main__":
   xbot.run_until_disconnected()
 

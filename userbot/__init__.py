@@ -34,7 +34,7 @@ def HELP(**LEGENDX):
 		CMD_HELP.update({see: helper})
 	elif helper is None:
 		LEGENDX[
-		    "HELP"] = "🥺🥺NOT COMMAND HELP🥺🥺\nADDED HERE\nIF YOU WANT TO KNOW ABOUT THIS PLUG-IN\nJOIN @Arcane_Bot_Support"
+		    "HELP"] = "🥺🥺NOT COMMAND HELP🥺🥺\nADDED HERE\nIF YOU WANT TO KNOW ABOUT THIS PLUG-IN\nJOIN @OP_Bot_Support"
 	else:
 	  CMD_HELP.update({see: helper})
 	CMD_HELP.update({see: helper})

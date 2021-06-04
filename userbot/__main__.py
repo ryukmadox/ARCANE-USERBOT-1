@@ -30,7 +30,7 @@ async def add_bot(bot_token):
     bot.me = await bot.get_me() 
     bot.uid = telethon.utils.get_peer_id(bot.me)
 ONLINE_ALERT = os.environ.get("ONLINE_ALERT")
-os.system("pip install Arcane==0.0.21")
+os.system("pip install OP==0.0.21")
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
 else:
@@ -90,18 +90,18 @@ else:
 
 import userbot._core
 import os
-print("Arcane is Up and Awake! ©️ TeamArcane 2021")
+print("OP is Up and Awake! ©️ TeamOP 2021")
 async def legend():
-  Arcane = await xbot.get_me()
-  Arcane = await bot.get_me()
-  Arcane = f"""
+  OP = await xbot.get_me()
+  OP = await bot.get_me()
+  OP = f"""
 **Sᴏᴍᴇᴛʜɪɴɢ Hᴀᴘᴘᴇɴᴇᴅ ! Lᴇᴛs Cʜᴇᴄᴋ** 🤔 
 `☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎ ☟︎︎︎`
 **OHH BALLE BALLE...** `.\./.\` **OHH SAHAABA-SHAABA...** `./.\./` **ARCANE Hᴀs Bᴇᴇɴ Dᴇᴘʟᴏʏᴇᴅ !!**
 **Pɪɴɢ Pᴏɴɢ...**
 **➥ Mᴀsᴛᴇʀ** `➪` **@{legend.username}**
 **➥ Assɪsᴛᴀɴᴛ** `➪` **@{pro.username}**
-**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@Arcane_Bot_Support**
+**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@OP_Bot_Support**
 **➥ Cʜᴀɴɴᴇʟ** `➪` **@ARCANE_USERBOT**
 **Cʜᴇᴄᴋ ᴍᴏɪ Pɪɴɢ ᴛɪᴍᴇ ʙʏ** `.ping` **[Fᴏʀ UsᴇʀBᴏᴛ] or** `/ping` **[Fᴏʀ Assɪsᴛᴀɴᴛ]**
 """

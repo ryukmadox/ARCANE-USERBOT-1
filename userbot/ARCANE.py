@@ -30,14 +30,14 @@ TIME = time.asctime(time.localtime())
 #my name 👇
 ARCANE = "[υℓтяα χ](https://t.me/ARCANE_USERBOT)"
 #my bots repo 👇
-REPO = "[υℓтяα χ вσт](https://github.com/Arcane120/ARCANE-USERBOT)"
+REPO = "[υℓтяα χ вσт](https://github.com/OP120/ARCANE-USERBOT)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
 global ghanti
 X = bot.uid
 MASTER = f"[{NAME}](tg://user?id={X})"
-GROUP = "[SUPPORT GROUP](https://t.me/Arcane_Bot_Support)"
+GROUP = "[SUPPORT GROUP](https://t.me/OP_Bot_Support)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
 ALIVE = "вσт ιѕ ση 🔥 ƒιяє 🔥" 

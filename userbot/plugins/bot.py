@@ -26,7 +26,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "𝙰𝚁𝙲𝙰𝙽𝙴"
 ALIVE_PHOTTO = os.environ.get("ALIVE_PHOTTO", None)
 CUSTOM_ALIVE_TEXT = Config.ALIVE_MSG or "✨𝙰𝚁𝙲𝙰𝙽𝙴 𝙱𝙾𝚃 𝙸𝚂 𝚄𝙿 𝙰𝙽𝙳 𝚁𝙴𝙰𝙳𝚈 𝚃𝙾 𝚂𝙴𝚁𝚅𝙴 𝚈𝙾𝚄 𝙼𝙰𝚂𝚃𝙴𝚁✨"
 
-pro_text=(f"**{CUSTOM_ALIVE_TEXT} **\n\n**Yes Master, Am Alive And Systems Are Working Perfectly As It Should Be...**\n\n⚓ About My System ⚓\n\n➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ 1.17.5\n➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/Arcane_Bot_Support)\n➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [ARCANE BOT](https://github.com/Arcane120/ARCANE-USERBOT/License)\n➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [ARCANE BOT](https://github.com/Arcane120/ARCANE-USERBOT)\n\n➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ok})\n")
+pro_text=(f"**{CUSTOM_ALIVE_TEXT} **\n\n**Yes Master, Am Alive And Systems Are Working Perfectly As It Should Be...**\n\n⚓ About My System ⚓\n\n➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ 1.17.5\n➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/OP_Bot_Support)\n➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [ARCANE BOT](https://github.com/OP120/ARCANE-USERBOT/License)\n➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [ARCANE BOT](https://github.com/OP120/ARCANE-USERBOT)\n\n➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ok})\n")
 TG_BOT_USER_NAME_BF_HER = os.environ.get("ALIVE_PHOTTO", None)
 if TG_BOT_USER_NAME_BF_HER is not None:
     @tgbot.on(events.InlineQuery)
@@ -38,10 +38,10 @@ if TG_BOT_USER_NAME_BF_HER is not None:
         if query.startswith("alive") and event.query.user_id == me.id:
             buttons = [
                 [
-                    Button.url("✨𝚁𝙴𝙿𝙾✨", "https://github.com/Arcane120/ARCANE-USERBOT"),
-                    Button.url("⚓𝙳𝙴𝙿𝙻𝙾𝚈⚓", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FArcane120%2Heroku-Setup&template=https%3A%2F%2Fgithub.com%2FArcane120%2FHeroku-Setup")],
-                    [Button.url("🚨𝚂𝚃𝚁𝙸𝙽𝙶🚨", "https://replit.com/@Arcane120/ArcaneBot#main.py"),
-                    Button.url("⚡𝙶𝚁𝙾𝚄𝙿⚡", "https://t.me/Arcane_Bot_Support"),
+                    Button.url("✨𝚁𝙴𝙿𝙾✨", "https://github.com/OP120/ARCANE-USERBOT"),
+                    Button.url("⚓𝙳𝙴𝙿𝙻𝙾𝚈⚓", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOP120%2Heroku-Setup&template=https%3A%2F%2Fgithub.com%2FOP120%2FHeroku-Setup")],
+                    [Button.url("🚨𝚂𝚃𝚁𝙸𝙽𝙶🚨", "https://replit.com/@OP120/OPBot#main.py"),
+                    Button.url("⚡𝙶𝚁𝙾𝚄𝙿⚡", "https://t.me/OP_Bot_Support"),
                 ]
             ]
             if ALIVE_PHOTTO and ALIVE_PHOTTO.endswith((".jpg", ".png", "gif", "mp4")):

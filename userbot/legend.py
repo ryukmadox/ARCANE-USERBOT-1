@@ -33,18 +33,18 @@ uptime = tim
 #time = date + time okay
 TIME = time.asctime(time.localtime())
 #my name 👇
-𝗔𝗥𝗖𝗔𝗡𝗘 = "[𝗔𝗥𝗖𝗔𝗡𝗘](https://t.me/Arcane_Bot_Support)"
+𝗔𝗥𝗖𝗔𝗡𝗘 = "[𝗔𝗥𝗖𝗔𝗡𝗘](https://t.me/OP_Bot_Support)"
 #my bots repo 👇
-REPO = "[𝗔𝗥𝗖𝗔𝗡𝗘 𝗕𝗢𝗧](https://github.com/Arcane120/ARCANE-USERBOT)"
+REPO = "[𝗔𝗥𝗖𝗔𝗡𝗘 𝗕𝗢𝗧](https://github.com/OP120/ARCANE-USERBOT)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
 global ghanti
 X = bot.uid
 MASTER = f"[{NAME}](tg://user?id={X})"
-GROUP = "[SUPPORT GROUP](https://t.me/Arcane_Bot_Support)"
+GROUP = "[SUPPORT GROUP](https://t.me/OP_Bot_Support)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
-ALIVE = "𝒜𝓇𝒸𝒶𝓃ℯ 𝓊𝓈ℯ𝓇𝒷ℴ𝓉 𝒾𝓈 ℴ𝓃 𝒻𝒾𝓇ℯ 🔥" #made by Team Arcane
+ALIVE = "𝒜𝓇𝒸𝒶𝓃ℯ 𝓊𝓈ℯ𝓇𝒷ℴ𝓉 𝒾𝓈 ℴ𝓃 𝒻𝒾𝓇ℯ 🔥" #made by Team OP
 OP = "𝙷𝙴𝙻𝙻𝙾 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 𝙰𝚁𝙲𝙰𝙽𝙴 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙸 𝙰𝙼 𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚄𝚂𝙴𝚁𝙱𝙾𝚃💝"
 EMOJI = "🔥"
